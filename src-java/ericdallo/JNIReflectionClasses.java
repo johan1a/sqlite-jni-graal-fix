@@ -48,6 +48,7 @@ class JNIReflectionClasses implements Feature {
 			Function.Window.class,
 			org.sqlite.core.DB.ProgressObserver.class,
 			java.lang.Throwable.class,
+      java.time.LocalDateTime.class
 		};
 	}
 
